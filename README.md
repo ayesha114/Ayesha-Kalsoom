@@ -1,8 +1,10 @@
-
+![logo](https://github.com/ayesha114/Ayesha-Kalsoom/blob/main/github-banner%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Ayesha Kalsoom</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
- <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha114&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha114" /> </p>
+
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha114&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha114" /> </p>
 
 
 
@@ -15,7 +17,6 @@
 - 📫 How to reach me **ayeshakalsoom06@gmail.com & ayeshakalsoom114@gmail.com**
 
 - 📄 Know about my experiences [https://novoresume.com/editor/resume/710ef370-c279-11ed-86d6-23218f022d6c](https://novoresume.com/editor/resume/710ef370-c279-11ed-86d6-23218f022d6c)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
